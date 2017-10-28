@@ -1,0 +1,25 @@
+{
+  "name": "setbased/abc-exception",
+  "description": "ABC-Framework: Exception",
+  "keywords": [
+    "ABC-Framework",
+    "Exception"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "require-dev": {
+    "phing/phing": "^2.0.0"
+  },
+  "require": {
+    "php": ">=7.0.0",
+    "setbased/exception": "^1.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "SetBased\\Abc\\Exception\\": "src/"
+    }
+  },
+  "config": {
+    "bin-dir": "bin"
+  }
+}
