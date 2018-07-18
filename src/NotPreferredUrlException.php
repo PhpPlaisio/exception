@@ -3,7 +3,7 @@
 namespace SetBased\Abc\Exception;
 
 /**
- * Exception for situations where the requested URL is not valid.
+ * Exception for situations where the requested URL is not the preferred URL.
  */
 class NotPreferredUrlException extends \RuntimeException
 {
