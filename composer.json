@@ -1,8 +1,8 @@
 {
-  "name": "setbased/abc-exception",
-  "description": "SetBased ABC-Framework: Exception",
+  "name": "plaisio/exception",
+  "description": "Plaisio: Exception",
   "keywords": [
-    "SetBased ABC-Framework",
+    "Plaisio",
     "Exception"
   ],
   "license": "MIT",
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "SetBased\\Abc\\Exception\\": "src/"
+      "Plaisio\\Exception\\": "src/"
     }
   },
   "config": {

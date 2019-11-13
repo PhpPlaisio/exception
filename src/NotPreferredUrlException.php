@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace SetBased\Abc\Exception;
+namespace Plaisio\Exception;
 
 /**
  * Exception for situations where the requested URL is not the preferred URL.

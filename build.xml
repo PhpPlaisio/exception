@@ -1,4 +1,4 @@
-<project name="SetBased ABC-Framework" default="build" basedir=".">
+<project name="Plaisio" default="build" basedir=".">
     <!-- Run composer update and executes various other updates -->
     <target name="update">
         <exec command="composer update" checkreturn="true" passthru="true"/>

@@ -1,4 +1,4 @@
-# SetBased ABC-Framework: Exception
+# Plaisio: Exception
 
 <table>
 <thead>
@@ -11,13 +11,13 @@
 <tbody>
 <tr>
 <td>
-<a href="https://gitter.im/setbased-abc-framework/abc"><img src="https://badges.gitter.im/setbased-abc-framework/abc.svg" alt="Gitter"/></a>
+<a href="https://gitter.im/PhpPlaisio/Plaisio"><img src="https://badges.gitter.im/PhpPlaisio/Plaisio.svg" alt="Gitter"/></a>
 </td>
 <td>
-<a href="https://packagist.org/packages/setbased/abc-exception"><img src="https://poser.pugx.org/setbased/abc-exception/license" alt="License"/></a>
+<a href="https://packagist.org/packages/plaisio/exception"><img src="https://poser.pugx.org/plaisio/exception/license" alt="License"/></a>
 </td>
 <td>
-<a href="https://packagist.org/packages/setbased/abc-exception"><img src="https://poser.pugx.org/setbased/abc-exception/v/stable" alt="Latest Stable Version"/></a>
+<a href="https://packagist.org/packages/plaisio/exception"><img src="https://poser.pugx.org/plaisio/exception/v/stable" alt="Latest Stable Version"/></a>
 </td>
 </tr>
 </tbody>
