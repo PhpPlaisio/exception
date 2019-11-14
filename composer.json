@@ -1,8 +1,8 @@
 {
   "name": "plaisio/exception",
-  "description": "Plaisio: Exception",
+  "description": "PhpPlaisio: Exception",
   "keywords": [
-    "Plaisio",
+    "PhpPlaisio",
     "Exception"
   ],
   "license": "MIT",
