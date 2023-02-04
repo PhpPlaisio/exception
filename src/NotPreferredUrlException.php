@@ -14,7 +14,7 @@ class NotPreferredUrlException extends \RuntimeException
    *
    * @var string
    */
-  public $preferredUri;
+  public string $preferredUri;
 
   //--------------------------------------------------------------------------------------------------------------------
   /**
